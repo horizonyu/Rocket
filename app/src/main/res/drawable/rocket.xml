@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--第一张图片，延时500毫秒-->
+    <item android:drawable="@mipmap/desktop_rocket_launch_1"
+        android:duration="300"/>
+
+    <!--第二张图片-->
+    <item android:drawable="@mipmap/desktop_rocket_launch_2"
+        android:duration="300"/>
+</animation-list>
