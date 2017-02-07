@@ -17,6 +17,9 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".RocketBackground"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"></activity>
+
        <service android:name=".RocketService"></service>
     </application>
 
